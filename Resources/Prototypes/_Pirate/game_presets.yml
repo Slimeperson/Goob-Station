@@ -12,6 +12,7 @@
   - ParadoxCloneSpawn
   - Devil
   - BasicRoundstartVariation
+  - PsionicEventsScheduler
 
 - type: gamePreset
   id: PirateSecret
